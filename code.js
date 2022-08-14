@@ -1,10 +1,5 @@
 let books = [
-    {
-        title: "The 7 Habits of Highly Effective People",
-        author: "Stephen R. Covey",
-        edition: 1,
-        image: "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/The_7_Habits_of_Highly_Effective_People.jpg/220px-The_7_Habits_of_Highly_Effective_People.jpg"
-    },
+   
     {
         title: "One Hundred Years of Solitude",
         author: "Gabriel Garcia Marquez",
