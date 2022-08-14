@@ -4,6 +4,7 @@
 #book-img{
   width: 30%;
   height: 400px;
+  align-items: center;
 }
 
 .book-cover{
